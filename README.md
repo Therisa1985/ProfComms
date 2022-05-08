@@ -9,7 +9,6 @@ Evidence is provided here of the following objectives for COIT11239 Professional
 - Conflict roleplays
 4. Communicate effectively in a professional context
 - Co-written article analysis (Mob Writing assignment)
-- Portfolio developed for COIT11238 Networked Infrastructure Foundations
 5. Define and demonstrate conflict management and resolution strategies
 - Conflict management roleplay report
 - Study notes on Conflict Management and resolution strategies
